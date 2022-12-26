@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.navbar{
+   
+    background-color: black;
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+
+}
+.ff{
+    margin-top: -20px;
+    margin-left: -30px;
+}
+.ff li {
+margin-bottom: 8px;
+}
+.mainbtn{
+    background-color:#76b900 ;
+    color: white;
+    
+
+}
+.mainbtn:hover{
+    background-color: #6aa700;
+
+}
+.parg{
+    font-size: 11px;
+    color: rgb(153,153,153); 
+}
+.graphic{
+    margin-top: 150px;
+}
+.navbar .nav-link:hover{
+    color: #6aa700;
+
+}
+
+.navbar .active{
+    color: #6aa700 !important;
+}
